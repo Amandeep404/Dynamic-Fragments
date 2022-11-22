@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StarSignTextViewHeader"  parent="Base.TextAppearance.AppCompat.Display1">
+        <item name="android:padding">18dp</item>
+    </style>
+
+    <style name="StarSignTextView"  parent="Base.TextAppearance.AppCompat.Large" >
+        <item name="android:padding">18dp</item>
+    </style>
+</resources>
